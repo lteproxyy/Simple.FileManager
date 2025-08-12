@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/lteproxyy/Simple.FileManager)](https://github.com/lteproxyy/Simple.FileManager/issues)  
 
 This is a minimal file manager written in C++.  
-The goal of this project is to practice working with file operations in C++ and improve my coding style.
+The goal of this project is to practice working with file operations in C++ and improve my coding skills.
 
 ## Features
 - Basic file operations  
